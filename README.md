@@ -14,6 +14,6 @@
  - 입력한 내용이 랜덤한 위치에 배정되게하는 옵션
 
 # ️💻개발 환경
- - 사용언어: Java/JSP, HTML5/CSS3/JavaScript
+ - 사용언어: HTML5/CSS3/JavaScript
  - 운영체제: Windows 10 x64, AWS EC2 Linux
  - 개발도구: Eclipse IDE, PuTTY
