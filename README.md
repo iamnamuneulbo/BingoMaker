@@ -1,5 +1,4 @@
 # ✏️BingoMaker
- - <http://3.136.120.235:8080/BingoMaker/bingo.jsp>
  - 간편하게 빙고판을 만들어주는 웹 서비스
  
 ## 개발 배경
